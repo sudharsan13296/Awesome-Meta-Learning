@@ -68,6 +68,10 @@ A curated set of papers along with code
 * __Few-Shot Image Recognition by Predicting Parameters from Activations__, (2018), _Siyuan Qiao, Chenxi Liu, Wei Shen, Alan Yuille_. [[pdf]](https://arxiv.org/pdf/1706.03466.pdf) [[code]](https://github.com/joe-siyuan-qiao/FewShot-CVPR)
 
 
+* __One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning__, (2018), _Tianhe Yu, Chelsea Finn, Annie Xie, Sudeep Dasari, Pieter Abbeel, Sergey Levine_, [[pdf]](https://arxiv.org/pdf/1802.01557.pdf) [[code]](https://github.com/aravind0706/upn)
+
+
+
 * __MetaGAN: An Adversarial Approach to Few-Shot Learning__, (2018), _ZHANG, Ruixiang and Che, Tong and Ghahramani, Zoubin and Bengio, Yoshua and Song, Yangqiu_. [[pdf]](http://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning.pdf) 
 
 * __CAML: Fast Context Adaptation via Meta-Learning__, (2019), _Luisa M Zintgraf, Kyriacos Shiarlis, Vitaly Kurin, Katja Hofmann, Shimon Whiteson_. [[pdf]](https://arxiv.org/pdf/1810.03642.pdf) 
@@ -86,6 +90,18 @@ A curated set of papers along with code
 
 ### [Meta Reinforcement Learning]()
 
+* __Generalizing Skills with Semi-Supervised Reinforcement Learning__, (2017), _Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine_. [[pdf]](https://arxiv.org/pdf/1612.00429.pdf) [[code]](https://github.com/cbfinn/gps/tree/ssrl)
+
+* __Guided Meta-Policy Search__, (2019), _Russell Mendonca, Abhishek Gupta, Rosen Kralev, Pieter Abbeel, Sergey Levine, Chelsea Finn_. [[pdf]](https://arxiv.org/pdf/1904.00956.pdf) [[code]](https://github.com/RussellM2020/GMPS)
+
+* __End-to-End Robotic Reinforcement Learning without Reward Engineering__, (2019), _Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/abs/1904.07854) [[code]](https://github.com/avisingh599/reward-learning-rl)
+
+* __Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables__, (2019), _Kate Rakelly*, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/pdf/1903.08254) [[code] (https://github.com/katerakelly/oyster)
+
+
+
+
+
 * __Task-Agnostic Dynamics Priors for Deep Reinforcement Learning__, (2019), _Yilun Du, Karthik Narasimhan_. [[pdf]](https://arxiv.org/pdf/1905.04819.pdf)
 
 * __Meta Reinforcement Learning with Task Embedding and Shared Policy__,(2019), _Lin Lan, Zhenguo Li, Xiaohong Guan, Pinghui Wang_. [[pdf]](https://arxiv.org/pdf/1905.06527.pdf) 
@@ -96,7 +112,6 @@ A curated set of papers along with code
 
 * __Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning__, (2019), _Brian Gaudet, Richard Linares, Roberto Furfaro_. [[pdf]](https://arxiv.org/pdf/1904.09865.pdf)
 
-* __Guided Meta-Policy Search__, (2019), _Russell Mendonca, Abhishek Gupta, Rosen Kralev, Pieter Abbeel, Sergey Levine, Chelsea Finn_. [[pdf]](https://arxiv.org/pdf/1904.00956.pdf) 
 
 * __Watch, Try, Learn: Meta-Learning from Demonstrations and Reward__, (2019), _Allan Zhou, Eric Jang, Daniel Kappler, Alex Herzog, Mohi Khansari, Paul Wohlhart, Yunfei Bai, Mrinal Kalakrishnan, Sergey Levine, Chelsea Finn_. [[pdf]](https://arxiv.org/pdf/1906.03352.pdf)
 
