@@ -14,11 +14,7 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 
 ## [Papers and code]()
 
-A curated set of papers on the following:
-
-* [Zero-Shot / One-Shot / Few-Shot Learning]()
-* [Model Agnotic Meta Learning]()
-* [Meta Reinforcment Learning]()
+A curated set of papers along with code
 
 ### [Zero-Shot / One-Shot / Few-Shot / Learning]()
 
