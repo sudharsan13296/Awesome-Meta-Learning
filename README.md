@@ -45,7 +45,7 @@ A curated set of papers along with code
 
 * __Adversarial Meta-Learning__, (2018), _Chengxiang Yin, Jian Tang, Zhiyuan Xu, Yanzhi Wang_. [[pdf]](https://arxiv.org/pdf/1806.03316.pdf) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python/blob/master/06.%20MAML%20and%20it's%20Variants/6.7%20Building%20ADML%20From%20Scratch.ipynb)
 
-* __On First-Order Meta-Learning Algorithms__, (2018), Alex Nichol, Joshua Achiam, John Schulman_. [[pdf]](https://arxiv.org/pdf/1803.02999.pdf) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python/blob/master/07.%20Meta-SGD%20and%20Reptile%20Algorithms/7.7%20Sine%20wave%20Regression%20Using%20Reptile.ipynb)
+* __On First-Order Meta-Learning Algorithms__, (2018), _Alex Nichol, Joshua Achiam, John Schulman_. [[pdf]](https://arxiv.org/pdf/1803.02999.pdf) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python/blob/master/07.%20Meta-SGD%20and%20Reptile%20Algorithms/7.7%20Sine%20wave%20Regression%20Using%20Reptile.ipynb)
 
 * __Meta-SGD: Learning to Learn Quickly for Few-Shot Learning__, (2017), _Zhenguo Li, Fengwei Zhou, Fei Chen, Hang Li_. [[pdf]](https://arxiv.org/pdf/1707.09835.pdf) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python/blob/master/07.%20Meta-SGD%20and%20Reptile%20Algorithms/7.4%20Building%20Meta-SGD%20from%20Scratch.ipynb) 
 
@@ -53,8 +53,7 @@ A curated set of papers along with code
 
 * __Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace__, (2018), _Yoonho Lee, Seungjin Choi_. [[pdf]](https://arxiv.org/pdf/1801.05558.pdf) [[code]](https://github.com/yoonholee/MT-net)
 
-* __A Simple Neural Attentive Meta-Learner__, (2018), _
-Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel_. [[pdf]](https://arxiv.org/pdf/1707.03141.pdf) [[code]](https://github.com/eambutu/snail-pytorch)
+* __A Simple Neural Attentive Meta-Learner__, (2018), _Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel_. [[pdf]](https://arxiv.org/pdf/1707.03141.pdf) [[code]](https://github.com/eambutu/snail-pytorch)
 
 * __Personalizing Dialogue Agents via Meta-Learning__, (2019), _Zhaojiang Lin, Andrea Madotto, Chien-Sheng Wu, Pascale Fung_. [[pdf]](https://arxiv.org/pdf/1905.10033.pdf) [[code]](https://github.com/HLTCHKUST/PAML) 
 
@@ -62,9 +61,9 @@ Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel_. [[pdf]](https://arx
 
 * __Learning to learn by gradient descent by gradient descent__, (206), _Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas_. [[pdf]](https://arxiv.org/pdf/1606.04474.pdf) [[code]](https://github.com/deepmind/learning-to-learn)
 
-* __Unsupervised Learning via Meta-Learning__, (2019), _Kyle Hsu, Sergey Levine, Chelsea Finn_. [[pdf]](https://arxiv.org/pdf/1810.02334.pdf)[[code]](https://github.com/hsukyle/cactus-maml)
+* __Unsupervised Learning via Meta-Learning__, (2019), _Kyle Hsu, Sergey Levine, Chelsea Finn_. [[pdf]](https://arxiv.org/pdf/1810.02334.pdf) [[code]](https://github.com/hsukyle/cactus-maml)
 
-* __Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering__,(2018), _Xuanyi Dong, Linchao Zhu, De Zhang, Yi Yang, Fei Wu_. [[pdf]](https://xuanyidong.com/pdf/FPAIT-MM-18.pdf) [[code]] 
+* __Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering__,(2018), _Xuanyi Dong, Linchao Zhu, De Zhang, Yi Yang, Fei Wu_. [[pdf]](https://xuanyidong.com/pdf/FPAIT-MM-18.pdf) 
 
 * __Few-Shot Image Recognition by Predicting Parameters from Activations__, (2018), _Siyuan Qiao, Chenxi Liu, Wei Shen, Alan Yuille_. [[pdf]](https://arxiv.org/pdf/1706.03466.pdf) [[code]](https://github.com/joe-siyuan-qiao/FewShot-CVPR)
 
@@ -105,13 +104,13 @@ Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel_. [[pdf]](https://arx
 
 * __Learning latent state representation for speeding up exploration__, (2019), _Giulia Vezzani, Abhishek Gupta, Lorenzo Natale, Pieter Abbeel_. [[pdf]](https://arxiv.org/pdf/1905.12621.pdf)
 
-* __Beyond Exponentially Discounted Sum: Automatic Learning of Return Function__, (2019), _ Yufei Wang, Qiwei Ye, Tie-Yan Liu_. [[pdf]](https://arxiv.org/pdf/1905.11591.pdf)
+* __Beyond Exponentially Discounted Sum: Automatic Learning of Return Function__, (2019), _Yufei Wang, Qiwei Ye, Tie-Yan Liu_. [[pdf]](https://arxiv.org/pdf/1905.11591.pdf)
 
 * __Learning Efficient and Effective Exploration Policies with Counterfactual Meta Policy__, (2019),  _Ruihan Yang, Qiwei Ye, Tie-Yan Liu_. [[pdf]](https://arxiv.org/pdf/1905.11583.pdf)
 
 * __Dealing with Non-Stationarity in Multi-Agent Deep Reinforcement Learning__, (2019), _Georgios Papoudakis, Filippos Christianos, Arrasy Rahman, Stefano V. Albrecht_. [[pdf]](https://arxiv.org/pdf/1906.04737.pdf)
 
-* __Learning to Discretize: Solving 1D Scalar Conservation Laws via Deep Reinforcement Learning__, (2019), _Yufei Wang, Ziju Shen, Zichao Long, Bin Dong. [[pdf]](https://arxiv.org/pdf/1905.11079.pdf)
+* __Learning to Discretize: Solving 1D Scalar Conservation Laws via Deep Reinforcement Learning__, (2019), _Yufei Wang, Ziju Shen, Zichao Long, Bin Dong_. [[pdf]](https://arxiv.org/pdf/1905.11079.pdf)
 
 
 ## [Books]()
