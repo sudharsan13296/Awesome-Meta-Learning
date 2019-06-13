@@ -96,7 +96,7 @@ A curated set of papers along with code
 
 * __End-to-End Robotic Reinforcement Learning without Reward Engineering__, (2019), _Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/abs/1904.07854) [[code]](https://github.com/avisingh599/reward-learning-rl)
 
-* __Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables__, (2019), _Kate Rakelly*, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/pdf/1903.08254) [[code] (https://github.com/katerakelly/oyster)
+* __Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables__, (2019), _Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/pdf/1903.08254) [[code](https://github.com/katerakelly/oyster)
 
 
 
