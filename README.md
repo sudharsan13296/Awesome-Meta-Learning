@@ -16,6 +16,15 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 
 A curated set of papers along with code.
 
+### [One-Shot / Few-Shot Segmentation]()
+* __One-Shot Video Object Segmentation__, (2017), _S. Caelles and K.K. Maninis and J. Pont-Tuset and L. Leal-Taixe' and D. Cremers and L. Van Gool_ [[pdf]](http://vision.ee.ethz.ch/~cvlsegmentation/osvos/) [[code]](https://github.com/scaelles/OSVOS-TensorFlow)
+
+* __One-Shot Learning for Semantic Segmentation__, (2017), _Amirreza Shaban, Shray Bansal, Zhen Liu, Irfan Essa, Byron Boots_ [[pdf]](https://arxiv.org/abs/1709.03410) [[code]](https://github.com/lzzcd001/OSLSM)
+
+* __Few-Shot Segmentation Propagation with Guided Networks__, (2018), _Kate Rakelly, Evan Shelhamer, Trevor Darrell, Alexei A. Efros, Sergey Levine_ [[pdf]](https://arxiv.org/abs/1806.07373) [[code]](https://github.com/shelhamer/revolver)
+
+*__Few-Shot Semantic Segmentation with Prototype Learning__, (2018), _Nanqing Dong and Eric P. Xing_ [[pdf]](http://bmvc2018.org/contents/papers/0255.pdf)
+
 ### [Zero-Shot / One-Shot / Few-Shot / Learning]()
 
 * __Siamese Neural Networks for One-shot Image Recognition__, (2015), _Gregory Koch, Richard Zemel, Ruslan Salakhutdinov_. [[pdf]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python/blob/master/02.%20Face%20and%20Audio%20Recognition%20using%20Siamese%20Networks/2.4%20Face%20Recognition%20Using%20Siamese%20Network.ipynb) 
