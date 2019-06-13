@@ -14,7 +14,7 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 
 ## [Papers and Code]()
 
-A curated set of papers along with code
+A curated set of papers along with code.
 
 ### [Zero-Shot / One-Shot / Few-Shot / Learning]()
 
@@ -39,14 +39,11 @@ A curated set of papers along with code
 * __Low-shot learning with large-scale diffusion__, (2018), _Matthijs Douze, Arthur Szlam, Bharath Hariharan, Hervé Jégou_. 
 [[pdf]](https://arxiv.org/pdf/1706.02332v2.pdf) [[code]](https://github.com/facebookresearch/low-shot-with-diffusion)
 
-* __Dynamic Few-Shot Visual Learning without Forgetting__, (2018), _Spyros Gidaris, Nikos Komodakis_. [[pdf]](https://arxiv.org/pdf/1804.09458.pdf) [[code]](https://github.com/gidariss/FewShotWithoutForgetting)
-
 * __Low-Shot Learning with Imprinted Weights__, (2018), _Hang Qi, Matthew Brown, David G. Lowe_. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Low-Shot_Learning_With_CVPR_2018_paper.pdf) [[code]](https://github.com/YU1ut/imprinted-weights) 
 
-
+* __Dynamic Few-Shot Visual Learning without Forgetting__, (2018), _Spyros Gidaris, Nikos Komodakis_. [[pdf]](https://arxiv.org/pdf/1804.09458.pdf) [[code]](https://github.com/gidariss/FewShotWithoutForgetting)
 
 * __Feature Generating Networks for Zero-Shot Learning__, (2017), _Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata_. [[pdf]](https://arxiv.org/pdf/1712.00981.pdf)
-
 
 
 
