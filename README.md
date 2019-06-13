@@ -5,8 +5,8 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 
 # [Table of Contents]()
 
-* [Papers and code]
-* [Books]()
+* [Papers and code]()
+* [Books](#Books)
 * [Blogs]()
 * [Lecture Videos]()
 * [Datasets]()
