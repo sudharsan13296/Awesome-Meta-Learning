@@ -114,14 +114,14 @@ Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel_. [[pdf]](https://arx
 * __Learning to Discretize: Solving 1D Scalar Conservation Laws via Deep Reinforcement Learning__, (2019), _Yufei Wang, Ziju Shen, Zichao Long, Bin Dong. [[pdf]](https://arxiv.org/pdf/1905.11079.pdf)
 
 
-# [Books]()
+## [Books]()
 
 * __Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow__, (2019), _Sudharsan Ravichandiran_, [[pdf]](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
 
 
 
 
-# Blogs
+## Blogs
 
 * [Berkeley Artificial Intelligence Research blog](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
 
@@ -136,7 +136,7 @@ Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel_. [[pdf]](https://arx
 * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
 * [What’s New in Deep Learning Research: Understanding Meta-Learning](https://towardsdatascience.com/whats-new-in-deep-learning-research-understanding-meta-learning-91fef1295660) 
 
-# Lecture Videos 
+## Lecture Videos 
 
 * [Chelsea Finn: Building Unsupervised Versatile Agents with Meta-Learning](https://www.youtube.com/watch?v=i05Fk4ebMY0)
 
@@ -153,14 +153,14 @@ Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel_. [[pdf]](https://arx
 
 
 
-# Datasets
+## Datasets
 
 * [Omniglot](https://github.com/brendenlake/omniglot) 
 * [mini-ImageNet](https://github.com/y2l/mini-imagenet-tools) 
 * [ILSVRC](http://image-net.org/challenges/LSVRC/)
 
 
-# Researchers
+## Researchers
 
 * [Chelsea Finn](http://people.eecs.berkeley.edu/~cbfinn/)
 * [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
