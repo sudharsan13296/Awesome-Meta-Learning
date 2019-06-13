@@ -71,16 +71,15 @@ A curated set of papers along with code.
 
 * __Unsupervised Learning via Meta-Learning__, (2019), _Kyle Hsu, Sergey Levine, Chelsea Finn_. [[pdf]](https://arxiv.org/pdf/1810.02334.pdf) [[code]](https://github.com/hsukyle/cactus-maml)
 
-* __Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering__,(2018), _Xuanyi Dong, Linchao Zhu, De Zhang, Yi Yang, Fei Wu_. [[pdf]](https://xuanyidong.com/pdf/FPAIT-MM-18.pdf) 
 
 * __Few-Shot Image Recognition by Predicting Parameters from Activations__, (2018), _Siyuan Qiao, Chenxi Liu, Wei Shen, Alan Yuille_. [[pdf]](https://arxiv.org/pdf/1706.03466.pdf) [[code]](https://github.com/joe-siyuan-qiao/FewShot-CVPR)
 
 
 * __One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning__, (2018), _Tianhe Yu, Chelsea Finn, Annie Xie, Sudeep Dasari, Pieter Abbeel, Sergey Levine_, [[pdf]](https://arxiv.org/pdf/1802.01557.pdf) [[code]](https://github.com/aravind0706/upn)
 
-
-
 * __MetaGAN: An Adversarial Approach to Few-Shot Learning__, (2018), _ZHANG, Ruixiang and Che, Tong and Ghahramani, Zoubin and Bengio, Yoshua and Song, Yangqiu_. [[pdf]](http://papers.nips.cc/paper/7504-metagan-an-adversarial-approach-to-few-shot-learning.pdf) 
+
+* __Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering__,(2018), _Xuanyi Dong, Linchao Zhu, De Zhang, Yi Yang, Fei Wu_. [[pdf]](https://xuanyidong.com/pdf/FPAIT-MM-18.pdf) 
 
 * __CAML: Fast Context Adaptation via Meta-Learning__, (2019), _Luisa M Zintgraf, Kyriacos Shiarlis, Vitaly Kurin, Katja Hofmann, Shimon Whiteson_. [[pdf]](https://arxiv.org/pdf/1810.03642.pdf) 
 
@@ -104,9 +103,7 @@ A curated set of papers along with code.
 
 * __End-to-End Robotic Reinforcement Learning without Reward Engineering__, (2019), _Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/abs/1904.07854) [[code]](https://github.com/avisingh599/reward-learning-rl)
 
-* __Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables__, (2019), _Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/pdf/1903.08254) [[code](https://github.com/katerakelly/oyster)
-
-
+* __Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables__, (2019), _Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/pdf/1903.08254) [[code]](https://github.com/katerakelly/oyster)
 
 
 
