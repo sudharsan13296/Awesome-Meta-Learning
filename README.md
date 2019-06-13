@@ -30,7 +30,7 @@ A curated set of papers along with code
 
 * __One-shot Learning with Memory-Augmented Neural Networks__, (2016), _Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap_. [[pdf]](https://arxiv.org/pdf/1605.06065.pdf) [[code]](https://github.com/vineetjain96/one-shot-mann)
 
-* __Optimization as a Model for Few-Shot Learning__, (2016), _Sachin Ravi∗and Hugo Larochelle_. [[pdf]](https://openreview.net/pdf?id=rJY0-Kcll) [[code]](https://github.com/gitabcworld/FewShotLearning)
+* __Optimization as a Model for Few-Shot Learning__, (2016), _Sachin Ravi and Hugo Larochelle_. [[pdf]](https://openreview.net/pdf?id=rJY0-Kcll) [[code]](https://github.com/gitabcworld/FewShotLearning)
 
 * __An embarrassingly simple approach to zero-shot learning__, (2015), _B Romera-Paredes, Philip H. S. Torr_. [[pdf]](http://proceedings.mlr.press/v37/romera-paredes15.pdf) [[code]](https://github.com/bernard24/Embarrassingly-simple-ZSL)
 
