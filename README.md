@@ -187,6 +187,10 @@ A curated set of papers along with code.
 * [Omniglot](https://github.com/brendenlake/omniglot) 
 * [mini-ImageNet](https://github.com/y2l/mini-imagenet-tools) 
 * [ILSVRC](http://image-net.org/challenges/LSVRC/)
+* [FGVC aircraft](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
+* [Cu_birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
+
+Check more datasets by Google [here.](https://github.com/google-research/meta-dataset)
 
 
 ## Researchers
