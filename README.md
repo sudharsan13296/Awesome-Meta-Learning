@@ -43,13 +43,13 @@ A curated set of papers along with code.
 * __Low-Shot Learning with Imprinted Weights__, (2018), _Hang Qi, Matthew Brown, David G. Lowe_. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_Low-Shot_Learning_With_CVPR_2018_paper.pdf) [[code]](https://github.com/YU1ut/imprinted-weights) 
 
 
-* __One-Shot Video Object Segmentation__, (2017), _S. Caelles and K.K. Maninis and J. Pont-Tuset and L. Leal-Taixe' and D. Cremers and L. Van Gool_ [[pdf]](http://vision.ee.ethz.ch/~cvlsegmentation/osvos/) [[code]](https://github.com/scaelles/OSVOS-TensorFlow)
+* __One-Shot Video Object Segmentation__, (2017), _S. Caelles and K.K. Maninis and J. Pont-Tuset and L. Leal-Taixe' and D. Cremers and L. Van Gool_. [[pdf]](http://vision.ee.ethz.ch/~cvlsegmentation/osvos/) [[code]](https://github.com/scaelles/OSVOS-TensorFlow)
 
-* __One-Shot Learning for Semantic Segmentation__, (2017), _Amirreza Shaban, Shray Bansal, Zhen Liu, Irfan Essa, Byron Boots_ [[pdf]](https://arxiv.org/abs/1709.03410) [[code]](https://github.com/lzzcd001/OSLSM)
+* __One-Shot Learning for Semantic Segmentation__, (2017), _Amirreza Shaban, Shray Bansal, Zhen Liu, Irfan Essa, Byron Boots_. [[pdf]](https://arxiv.org/abs/1709.03410) [[code]](https://github.com/lzzcd001/OSLSM)
 
-* __Few-Shot Segmentation Propagation with Guided Networks__, (2018), _Kate Rakelly, Evan Shelhamer, Trevor Darrell, Alexei A. Efros, Sergey Levine_ [[pdf]](https://arxiv.org/abs/1806.07373) [[code]](https://github.com/shelhamer/revolver)
+* __Few-Shot Segmentation Propagation with Guided Networks__, (2018), _Kate Rakelly, Evan Shelhamer, Trevor Darrell, Alexei A. Efros, Sergey Levine_. [[pdf]](https://arxiv.org/abs/1806.07373) [[code]](https://github.com/shelhamer/revolver)
 
-* __Few-Shot Semantic Segmentation with Prototype Learning__, (2018), _Nanqing Dong and Eric P. Xing_ [[pdf]](http://bmvc2018.org/contents/papers/0255.pdf)
+* __Few-Shot Semantic Segmentation with Prototype Learning__, (2018), _Nanqing Dong and Eric P. Xing_. [[pdf]](http://bmvc2018.org/contents/papers/0255.pdf)
 
 * __Dynamic Few-Shot Visual Learning without Forgetting__, (2018), _Spyros Gidaris, Nikos Komodakis_. [[pdf]](https://arxiv.org/pdf/1804.09458.pdf) [[code]](https://github.com/gidariss/FewShotWithoutForgetting)
 
@@ -145,7 +145,7 @@ A curated set of papers along with code.
 
 ## [Books]()
 
-* __Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow__, (2019), _Sudharsan Ravichandiran_, [[pdf]](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
+* __Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow__, (2019), _Sudharsan Ravichandiran_. [[pdf]](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
 
 
 
