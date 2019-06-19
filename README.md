@@ -56,8 +56,7 @@ A curated set of papers along with code.
 
 * __Feature Generating Networks for Zero-Shot Learning__, (2017), _Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata_. [[pdf]](https://arxiv.org/pdf/1712.00981.pdf)
 
-* __Meta-Learning Deep Visual Words for Fast Video Object Segmentation__, (2019), _
-Harkirat Singh Behl, Mohammad Najafi, Anurag Arnab, Philip H.S. Torr_. [[pdf]](https://arxiv.org/pdf/1812.01397.pdf)
+* __Meta-Learning Deep Visual Words for Fast Video Object Segmentation__, (2019), _Harkirat Singh Behl, Mohammad Najafi, Anurag Arnab, Philip H.S. Torr_. [[pdf]](https://arxiv.org/pdf/1812.01397.pdf)
 
 
 ## [Model Agnostic Meta Learning]()
@@ -215,12 +214,12 @@ Check several other datasets by Google [here.](https://github.com/google-researc
 * [Adam Santoro](https://scholar.google.com/citations?hl=en&user=evIkDWoAAAAJ&view_op=list_works&sortby=pubdate), _DeepMind_
 * [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/), _Princeton University_
 * [David Abel](https://david-abel.github.io/), _Brown University_
-* [Brenden Lake](https://cims.nyu.edu/~brenden/), _Facebook AI Reseach_
+* [Brenden Lake](https://cims.nyu.edu/~brenden/), _Facebook AI Research_
 
 
 ## Contributions
 
-Contributions are always welcome, if you have any suggestions and imporvements, please create an issue or raise a pull request. 
+Contributions are most welcome, if you have any suggestions and imporvements, please create an issue or raise a pull request. 
 
 
 
