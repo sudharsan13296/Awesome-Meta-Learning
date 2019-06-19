@@ -56,6 +56,8 @@ A curated set of papers along with code.
 
 * __Feature Generating Networks for Zero-Shot Learning__, (2017), _Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata_. [[pdf]](https://arxiv.org/pdf/1712.00981.pdf)
 
+* __Meta-Learning Deep Visual Words for Fast Video Object Segmentation__, (2019), _
+Harkirat Singh Behl, Mohammad Najafi, Anurag Arnab, Philip H.S. Torr_. [[pdf]](https://arxiv.org/pdf/1812.01397.pdf)
 
 
 ## [Model Agnostic Meta Learning]()
