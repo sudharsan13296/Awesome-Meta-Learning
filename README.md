@@ -185,13 +185,15 @@ A curated set of papers along with code.
 
 ## Datasets
 
+Most popularly used datasets:
+
 * [Omniglot](https://github.com/brendenlake/omniglot) 
 * [mini-ImageNet](https://github.com/y2l/mini-imagenet-tools) 
 * [ILSVRC](http://image-net.org/challenges/LSVRC/)
 * [FGVC aircraft](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
-* [Cu_birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
+* [Cu birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
 
-Check more datasets by Google [here.](https://github.com/google-research/meta-dataset)
+Check several other datasets by Google [here.](https://github.com/google-research/meta-dataset)
 
 
 ## Workshops
@@ -203,13 +205,15 @@ Check more datasets by Google [here.](https://github.com/google-research/meta-da
 
 ## Researchers
 
-* [Chelsea Finn](http://people.eecs.berkeley.edu/~cbfinn/), _Google Brain_
+* [Chelsea Finn](http://people.eecs.berkeley.edu/~cbfinn/), _UC Berkeley_
 * [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), _UC Berkeley_
-* [David Abel](https://david-abel.github.io/), _Brown University_
 * [Erin Grant](https://people.eecs.berkeley.edu/~eringrant/),  _UC Berkeley_
-* [Brenden Lake](https://cims.nyu.edu/~brenden/), _Facebook AI Reseach_
 * [Raia Hadsell](http://raiahadsell.com/index.html), _DeepMind_
 * [Misha Denil](http://mdenil.com/), _DeepMind_
+* [Adam Santoro](https://scholar.google.com/citations?hl=en&user=evIkDWoAAAAJ&view_op=list_works&sortby=pubdate), _DeepMind_
+* [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/), _Princeton University_
+* [David Abel](https://david-abel.github.io/), _Brown University_
+* [Brenden Lake](https://cims.nyu.edu/~brenden/), _Facebook AI Reseach_
 
 
 ## Contributions
