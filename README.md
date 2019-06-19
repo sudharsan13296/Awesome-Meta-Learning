@@ -10,6 +10,7 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 * [Blogs](#Blogs)
 * [Lecture Videos]()
 * [Datasets](#Datasets)
+* [Workshops](#Workshops)
 * [Researchers](#Researchers)
 
 ## [Papers and Code]()
@@ -193,15 +194,22 @@ A curated set of papers along with code.
 Check more datasets by Google [here.](https://github.com/google-research/meta-dataset)
 
 
+## Workshops
+
+* [MetaLearn 2017](http://metalearning.ml/2017/)
+* [MetaLearn 2018](http://metalearning.ml/2018/)
+* [MetaLearn 2019](http://metalearning.ml/2019/)
+
+
 ## Researchers
 
-* [Chelsea Finn](http://people.eecs.berkeley.edu/~cbfinn/)
-* [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
-* [David Abel](https://david-abel.github.io/)
-* [Erin Grant](https://people.eecs.berkeley.edu/~eringrant/)
-* [Brenden Lake](https://cims.nyu.edu/~brenden/)
-* [Raia Hadsell](http://raiahadsell.com/index.html)
-* [Misha Denil](http://mdenil.com/)
+* [Chelsea Finn](http://people.eecs.berkeley.edu/~cbfinn/), _Google Brain_
+* [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), _UC Berkeley_
+* [David Abel](https://david-abel.github.io/), _Brown University_
+* [Erin Grant](https://people.eecs.berkeley.edu/~eringrant/),  _UC Berkeley_
+* [Brenden Lake](https://cims.nyu.edu/~brenden/), _Facebook AI Reseach_
+* [Raia Hadsell](http://raiahadsell.com/index.html), _DeepMind_
+* [Misha Denil](http://mdenil.com/), _DeepMind_
 
 
 ## Contributions
