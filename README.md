@@ -191,7 +191,7 @@ Most popularly used datasets:
 * [mini-ImageNet](https://github.com/y2l/mini-imagenet-tools) 
 * [ILSVRC](http://image-net.org/challenges/LSVRC/)
 * [FGVC aircraft](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
-* [Cu birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
+* [Caltech-UCSD Birds-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
 
 Check several other datasets by Google [here.](https://github.com/google-research/meta-dataset)
 
