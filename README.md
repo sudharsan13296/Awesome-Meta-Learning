@@ -204,7 +204,9 @@ Check more datasets by Google [here.](https://github.com/google-research/meta-da
 * [Misha Denil](http://mdenil.com/)
 
 
+## Contributions
 
+Contributions are always welcome, if you have any suggestions and imporvements, please create an issue or raise a pull request. 
 
 
 
