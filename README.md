@@ -1,7 +1,6 @@
 # Awesome Meta Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources. *__(Updating every week)__*
-
+A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources. 
 
 # [Table of Contents]()
 
