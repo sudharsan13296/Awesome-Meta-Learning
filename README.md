@@ -167,7 +167,7 @@ A curated set of papers along with code.
 
 * [What’s New in Deep Learning Research: Understanding Meta-Learning](https://towardsdatascience.com/whats-new-in-deep-learning-research-understanding-meta-learning-91fef1295660) 
 
-* [Meta Reinforcement Blog by Lilian Weng](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
+* [Meta Reinforcement Learning Blog by Lilian Weng](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 
 ## Lecture Videos 
 
