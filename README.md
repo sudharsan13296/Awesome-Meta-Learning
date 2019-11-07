@@ -164,7 +164,10 @@ A curated set of papers along with code.
 * [An Introduction to Meta-Learning](https://medium.com/walmartlabs/an-introduction-to-meta-learning-ced7072b80e7)
 
 * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
+
 * [What’s New in Deep Learning Research: Understanding Meta-Learning](https://towardsdatascience.com/whats-new-in-deep-learning-research-understanding-meta-learning-91fef1295660) 
+
+* [Meta Reinforcement Blog by Lilian Weng](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 
 ## Lecture Videos 
 
