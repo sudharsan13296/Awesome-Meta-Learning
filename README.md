@@ -222,30 +222,3 @@ Check several other datasets by Google [here.](https://github.com/google-researc
 ## Contributions
 
 Contributions are most welcome, if you have any suggestions and improvements, please create an issue or raise a pull request. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
