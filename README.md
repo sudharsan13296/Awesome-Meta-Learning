@@ -13,7 +13,7 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 * [Researchers](#Researchers)
 
 
-#### For for updates follow me on Twitter ([@sudharsan13296](https://twitter.com/sudharsan13296)) and on LinkedIn ([Sudharsan Ravichandiran](https://www.linkedin.com/in/sudharsan1396/))
+#### For updates, follow me on Twitter ([@sudharsan13296](https://twitter.com/sudharsan13296)) and on LinkedIn ([Sudharsan Ravichandiran](https://www.linkedin.com/in/sudharsan1396/))
 
 ## [Papers and Code]()
 
