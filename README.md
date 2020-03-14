@@ -11,6 +11,7 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 * [Datasets](#Datasets)
 * [Workshops](#Workshops)
 * [Researchers](#Researchers)
+* [Online Courses](#)
 
 
 #### For updates, follow me on Twitter ([@sudharsan13296](https://twitter.com/sudharsan13296)) and on LinkedIn ([Sudharsan Ravichandiran](https://www.linkedin.com/in/sudharsan1396/))
@@ -186,8 +187,11 @@ A curated set of papers along with code.
 
 * [Meta Learning and One-Shot Learning](https://www.youtube.com/watch?v=KUWywwvQv8E)
 
+* [Stanford Meta Learning Course by Chelsea Finn](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 
+## Courses
 
+* [CS 330: Deep Multi-Task and Meta Learning](http://web.stanford.edu/class/cs330/)
 
 ## Datasets
 
