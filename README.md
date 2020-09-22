@@ -116,7 +116,7 @@ A curated set of papers along with code.
 
 * __Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables__, (2019), _Kate Rakelly, Aurick Zhou, Deirdre Quillen, Chelsea Finn, Sergey Levine_. [[pdf]](https://arxiv.org/pdf/1903.08254) [[code]](https://github.com/katerakelly/oyster)
 
-* __Meta-Gradient Reinforcement Learning__, (2018), _Zhongwen Xu, Hado van Hasselt,David Silver_. [[pdf]]](http://papers.nips.cc/paper/7507-meta-gradient-reinforcement-learning.pdf)
+* __Meta-Gradient Reinforcement Learning__, (2018), _Zhongwen Xu, Hado van Hasselt,David Silver_. [[pdf]](http://papers.nips.cc/paper/7507-meta-gradient-reinforcement-learning.pdf)
 
 * __Task-Agnostic Dynamics Priors for Deep Reinforcement Learning__, (2019), _Yilun Du, Karthik Narasimhan_. [[pdf]](https://arxiv.org/pdf/1905.04819.pdf)
 
