@@ -12,7 +12,7 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 * [Workshops](#Workshops)
 * [Researchers](#Researchers)
 
-Check out my Deep Reinforcement Learning Repo [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python)
+## Check out my Deep Reinforcement Learning Repo [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python)
 
 ## [Papers and Code]()
 
