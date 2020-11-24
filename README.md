@@ -6,6 +6,7 @@ A curated list of Meta Learning papers, code, books, blogs, videos, datasets and
 
 * [Papers and Code](#Papers-and-Code)
 * [Books](#Books)
+* [Libraries](#Libraries)
 * [Blogs](#Blogs)
 * [Lecture Videos]()
 * [Datasets](#Datasets)
@@ -151,6 +152,11 @@ A curated set of papers along with code.
 * __Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow__, (2019), _Sudharsan Ravichandiran_. [[pdf]](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
 
 
+## Libraries
+
+* [Higher by Facebook research](https://github.com/facebookresearch/higher)
+* [TorchMeta](https://github.com/tristandeleu/pytorch-meta)
+* [Learn2learn]( https://github.com/learnables/learn2learn)
 
 
 ## Blogs
