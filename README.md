@@ -175,6 +175,8 @@ A curated set of papers along with code.
 
 * [Stanford CS330: Multi-Task and Meta-Learning, 2019 by Chelsea Finn](https://youtu.be/0rZtSwNOTQo)
 
+* [Meta Learning lecture by Soheil Feizi](https://www.youtube.com/watch?v=CRHKgOYXVe8)
+
 * [Chelsea Finn: Building Unsupervised Versatile Agents with Meta-Learning](https://www.youtube.com/watch?v=i05Fk4ebMY0)
 
 * [Sam Ritter: Meta-Learning to Make Smart Inferences from Small Data](https://www.youtube.com/watch?v=NpSpHlHpz6k)
