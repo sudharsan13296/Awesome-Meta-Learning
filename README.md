@@ -2,6 +2,7 @@
 
 A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources. 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for meta-learning workflow orchestration, automated few-shot learning management, and multi-agent coordination. MIT licensed.
 # [Table of Contents]()
 
 * [Papers and Code](#Papers-and-Code)
