@@ -63,6 +63,10 @@ A curated set of papers along with code.
 
 ## [Model Agnostic Meta Learning]()
 
+* __SHOT: Suppressing the Hessian along the Optimization Trajectory for Gradient-Based Meta-Learning__, (2023), _Junhoo Lee, Jayeon Yoo, Nojun Kwak_. NeurIPS 2023. [[pdf]](https://arxiv.org/pdf/2310.02751) [[code]](https://github.com/JunHoo-Lee/SHOT) [[project]](https://junhoo.me/shot)
+
+* __Any-Way Meta Learning__, (2024), _Junhoo Lee, Yearim Kim, Hyunho Lee, Nojun Kwak_. AAAI 2024. [[pdf]](https://arxiv.org/pdf/2401.05097) [[project]](https://junhoo.me/any-way-meta-learning)
+
 * __Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks__, (2017), _Chelsea Finn, Pieter Abbeel, Sergey Levine_. [[pdf]](https://arxiv.org/pdf/1703.03400.pdf) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python/blob/master/06.%20MAML%20and%20it's%20Variants/6.5%20Building%20MAML%20From%20Scratch.ipynb)
 
 * __Adversarial Meta-Learning__, (2018), _Chengxiang Yin, Jian Tang, Zhiyuan Xu, Yanzhi Wang_. [[pdf]](https://arxiv.org/pdf/1806.03316.pdf) [[code]](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python/blob/master/06.%20MAML%20and%20it's%20Variants/6.7%20Building%20ADML%20From%20Scratch.ipynb)
